@@ -1,0 +1,13 @@
+dataset,adc_bits,accuracy_pct,balanced_accuracy_pct,auc
+pneumoniamnist,5,59.29,54.87,0.5577
+pneumoniamnist,8,78.37,71.15,0.9049
+pneumoniamnist,12,87.66,83.97,0.9577
+dermamnist,5,10.07,13.07,0.4925
+dermamnist,8,74.86,45.69,0.8677
+dermamnist,12,76.01,46.36,0.8972
+bloodmnist,5,21.13,21.28,0.613
+bloodmnist,8,92.63,91.05,0.9957
+bloodmnist,12,95.64,94.73,0.9974
+retinamnist,5,31.75,17.67,0.4857
+retinamnist,8,53.5,37.6,0.697
+retinamnist,12,54.5,37.78,0.7118
